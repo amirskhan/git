@@ -1,4 +1,4 @@
-# Git
+# Git tutorial
 
 ## Configure Git
 Configure local Git client with username and email address. Omit --global to keep username and email only to the specific git repository.
